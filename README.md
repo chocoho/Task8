@@ -8,9 +8,13 @@ Look at "TIME BOUND" under "SMART GOALS" for a brief scheduled diary of our prog
 # Members
 
 Hong Shon @tzenarr - Presenter
+
 Christina Ho @chocoho - Operational Lead, Visualizer
+
 Sung Hoon Choi @shchoi - Visualizer
+
 Jinsoo Lee (aka Jason) @annyeongjs - Visualizer
+
 HyungKyu Chang @hkchang89 - Visualizer
 
 
